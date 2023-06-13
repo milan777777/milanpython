@@ -1,0 +1,2 @@
+# milanpython
+python and django
